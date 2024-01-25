@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\KMU\KMU\bin\Debug\net8.0\KMU.exe
+C:\Users\Admin\Downloads\Program\KMU\KMU\bin\Debug\net8.0\KMU.deps.json
+C:\Users\Admin\Downloads\Program\KMU\KMU\bin\Debug\net8.0\KMU.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\KMU\KMU\bin\Debug\net8.0\KMU.dll
+C:\Users\Admin\Downloads\Program\KMU\KMU\bin\Debug\net8.0\KMU.pdb
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.dll
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\refint\KMU.dll
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.pdb
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\KMU.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\KMU\KMU\obj\Debug\net8.0\ref\KMU.dll
